@@ -1,24 +1,28 @@
 ## Hi there 👋
 
-<h1 align="center">Hola, soy Lucía 👋</h1>
+![Banner](./banner_arboles_github.1.jpg) 
+
+
+<h1 align="center">Hola, soy Lucía 👩‍💻</h1>
 <p align="center">
   <em>From vessels to data · Transitioning to Data Analyst · Bootcamp 2026</em>
 </p>
 
-### 🚢 De dónde vengo
-Mi carrera ha transcurrido en el sector marítimo y la logística; en el mundo de la operativa, cadenas de suministro globales y decisiones que dependen de tener la información correcta en el momento adecuado. Sin saberlo, ya vivía rodeada de datos 💾.   
-Ahora me reoriento hacia el análisis de datos, llevando conmigo lo aprendido.🧳
+### 🚢 De dónde vengo 🗺️
+ Mi carrera ha transcurrido en el sector marítimo y logístico; en el mundo de la operativa, cadenas de suministro globales y decisiones que dependen de tener la información correcta en el momento adecuado.    
+ Sin saberlo, ya vivía rodeada de datos 💾.   
+
 
 
 ### 📚 Aprendiendo ahora
-Estoy dando mis primeros pasos en este camino, aprendiendo con curiosidad y sin atajos:
+Estoy en plena reorientación profesional, aprendiendo con método...y con la calma justa que me permite el querer saberlo todo a la vez. O al menos, eso intento.
 
 - Fundamentos de Python para análisis de datos.
 - Hojas de cálculo y manejo de datos con Google Sheets.
 - Conceptos básicos de analítica y visualización.
 
 
-🌱 Nivel actual: orgullosa de dar mis primeros pasos en el análisis de datos. 
+🌱 Nivel actual: 🎡 modificando el rumbo, con todo por descubrir. 
 
 
 ### 🌌 Hacia dónde voy
@@ -39,7 +43,13 @@ Después de años inmersa en operaciones donde los errores cuestan caro, sé val
   </a>
 </p>
 
+<p>
+  <a href="https://discord.com/users/luciallaneza">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
+</p>
 <p align="center">
-  🚢 → 📊 · El viaje acaba de empezar
+  🛳️ → 📊  ¡El viaje acaba de empezar!
 </p>
 
