@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Banner](./banner_arboles_github.1.jpg) 
+![Banner](./banner_arboles_github.2.jpg) 
 
 
 <h1 align="center">Hola, soy Lucía 👩‍💻</h1>
